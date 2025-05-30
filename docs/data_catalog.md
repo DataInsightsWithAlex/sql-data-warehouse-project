@@ -23,3 +23,4 @@ The Gold layer is the business-level data represantation, structured to support 
 | create_date | DATE | The date and time when the customer record was created in the system |
 
 ## 2. gold.dim_products
+.... as this is just a project I didn't want to waste more time on it
